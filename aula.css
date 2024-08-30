@@ -33,7 +33,7 @@ header ul li a:hover{
 
 .section-01 button{
     margin-left: 100px;
-    width: 200px;
+   padding: 20px;
     height: auto;
     border-radius: 20px;
 }
@@ -76,9 +76,8 @@ header ul li a:hover{
 
 .section-02 button{
     margin-left: 100px;
-    width: 200px;
-    height: auto;
     border-radius: 20px;
+    padding: 20px;
 }
 
 .section-02 button:hover{
@@ -102,6 +101,7 @@ header ul li a:hover{
 .section-03 button{
     color: black;
     border-radius: 20px;
+    padding: 20px;
 }
 
 .section-03 button:hover{
